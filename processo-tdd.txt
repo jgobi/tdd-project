@@ -1,0 +1,7 @@
+Para desenvolver uma aplicação usando TDD com testes de unidade e funcionais, deve ser feito o seguinte:
+
+1. Escreva um teste funcional.
+2. Execute os testes funcionais e, se eles passarem, verifique se a aplicação precisa de refatoração. Se ela não precisar, então retorne para o passo 1 se necessário, ou fim do algoritmo se não necessário.
+3. Escreva testes de unidade para a funcionalidade.
+4. Execute os testes de unidade e, se eles passarem, verifique se a aplicação precisa de refatoração. Se ela não precisar, então retorne para o passo 2.
+5. Escreva um código mínimo para a funcionalidade e retorne para o passo 4.
